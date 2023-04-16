@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\Лиан\fabwfbqawBFbfffffffffffffffffffffffffffffffffffff\bullet.h(16,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Лиан\fabwfbqawBFbfffffffffffffffffffffffffffffffffffff\bullet.h(17,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Лиан\fabwfbqawBFbfffffffffffffffffffffffffffffffffffff\bullet.h(18,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Лиан\fabwfbqawBFbfffffffffffffffffffffffffffffffffffff\player.h(53,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Лиан\fabwfbqawBFbfffffffffffffffffffffffffffffffffffff\player.h(54,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Лиан\fabwfbqawBFbfffffffffffffffffffffffffffffffffffff\player.h(90,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Лиан\fabwfbqawBFbfffffffffffffffffffffffffffffffffffff\game.h(45,28): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+D:\Лиан\fabwfbqawBFbfffffffffffffffffffffffffffffffffffff\main.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  fabwfbqawBFbfffffffffffffffffffffffffffffffffffff.vcxproj -> D:\Лиан\fabwfbqawBFbfffffffffffffffffffffffffffffffffffff\x64\Debug\fabwfbqawBFbfffffffffffffffffffffffffffffffffffff.exe
